@@ -1,4 +1,4 @@
-package com.example.ecdemo;
+package com.example.ecdemo.data;
 
 import jakarta.persistence.*;
 
